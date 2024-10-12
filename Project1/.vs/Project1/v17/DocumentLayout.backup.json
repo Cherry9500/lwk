@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0614B5-4789-4EC3-9EB6-9EEC08D0F49C}|Project1\\Project1.vcxproj|C:\\Users\\Administrator\\source\\repos\\Project1\\Project1\\detail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D0614B5-4789-4EC3-9EB6-9EEC08D0F49C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\detail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0614B5-4789-4EC3-9EB6-9EEC08D0F49C}|Project1\\Project1.vcxproj|C:\\Users\\Administrator\\source\\repos\\Project1\\Project1\\c\u002B\u002B11\u7EBF\u7A0B\u6C60.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D0614B5-4789-4EC3-9EB6-9EEC08D0F49C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\c\u002B\u002B11\u7EBF\u7A0B\u6C60.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0614B5-4789-4EC3-9EB6-9EEC08D0F49C}|Project1\\Project1.vcxproj|C:\\Users\\Administrator\\source\\repos\\Project1\\Project1\\\u591A\u7EBF\u7A0B\u53CA\u7EBF\u7A0B\u95F4\u901A\u4FE1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D0614B5-4789-4EC3-9EB6-9EEC08D0F49C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\\u591A\u7EBF\u7A0B\u53CA\u7EBF\u7A0B\u95F4\u901A\u4FE1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "c\u002B\u002B11\u7EBF\u7A0B\u6C60.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Project1\\Project1\\c\u002B\u002B11\u7EBF\u7A0B\u6C60.cpp",
+              "RelativeDocumentMoniker": "Project1\\c\u002B\u002B11\u7EBF\u7A0B\u6C60.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Project1\\Project1\\c\u002B\u002B11\u7EBF\u7A0B\u6C60.cpp",
+              "RelativeToolTip": "Project1\\c\u002B\u002B11\u7EBF\u7A0B\u6C60.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T10:59:37.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "detail.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Project1\\Project1\\detail.cpp",
+              "RelativeDocumentMoniker": "Project1\\detail.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Project1\\Project1\\detail.cpp",
+              "RelativeToolTip": "Project1\\detail.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T09:02:50.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u591A\u7EBF\u7A0B\u53CA\u7EBF\u7A0B\u95F4\u901A\u4FE1.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Project1\\Project1\\\u591A\u7EBF\u7A0B\u53CA\u7EBF\u7A0B\u95F4\u901A\u4FE1.cpp",
+              "RelativeDocumentMoniker": "Project1\\\u591A\u7EBF\u7A0B\u53CA\u7EBF\u7A0B\u95F4\u901A\u4FE1.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Project1\\Project1\\\u591A\u7EBF\u7A0B\u53CA\u7EBF\u7A0B\u95F4\u901A\u4FE1.cpp",
+              "RelativeToolTip": "Project1\\\u591A\u7EBF\u7A0B\u53CA\u7EBF\u7A0B\u95F4\u901A\u4FE1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T08:50:19.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
